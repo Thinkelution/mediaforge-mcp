@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "mediaforge": {
+      "url": "https://mediaforge.thinkelution.com/sse"
+    }
+  }
+}
